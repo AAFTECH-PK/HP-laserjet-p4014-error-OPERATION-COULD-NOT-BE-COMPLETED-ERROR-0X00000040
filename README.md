@@ -1,2 +1,3 @@
 # HP-laserjet-p4014-error-OPERATION-COULD-NOT-BE-COMPLETED-ERROR-0X00000040
 Error 0x00000040 is a Windows network printing error—not a printer hardware fault—that happens when your PC fails to connect to a shared printer. Fix it by updating the driver, clearing the print spooler, or adjusting Point and Print registry settings.
+Go to your Desktop and locate the FixPrinter.reg file you just created.Right-click the file and select Merge (or double-click it).Click Yes when the User Account Control (UAC) prompt asks for admin permission.Click Yes again when the Registry Editor warns you about changing settings.Click OK once the confirmation box says it was successfully injected.
